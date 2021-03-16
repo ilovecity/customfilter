@@ -1,1 +1,5 @@
+! Title: CustomFilter
+! Homepage: https://github.com/ilovecity/customfilter
+! Expires: 1 day
+! Version: 20210317
 ||torrent*.com/data/zn_bimg/
