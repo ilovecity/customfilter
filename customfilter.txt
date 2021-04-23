@@ -4,4 +4,4 @@
 ! Version: 20210423
 torrentsee51.com##.tads1
 torrentsee51.com##.mmbannel
-torrentsee51.com##.mmnewlist row
+torrentsee51.com##div.col-md-7.nplr.mmri15 > div:nth-child(6)
