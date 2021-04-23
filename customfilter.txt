@@ -2,4 +2,5 @@
 ! Homepage: https://github.com/ilovecity/customfilter
 ! Expires: 1 day
 ! Version: 20210317
-||torrent*.com/data/zn_bimg/
+torrentsee51.com###navMain > div > div.tads1
+torrentsee51.com###body > div.container.mobile_pd_top.mb40.mt15 > div > div.col-md-3.nplr.mmri15 > div.mmbannel
