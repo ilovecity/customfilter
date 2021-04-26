@@ -5,3 +5,4 @@
 torrentsee51.com##div[class="tads1"]
 torrentsee51.com##div[class="mmbannel"]
 torrentsee51.com##div[class="col-md-6 nplr mb15"]
+torrentsee51.com##div[class="hidden-lg hidden-md"]
