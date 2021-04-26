@@ -1,6 +1,6 @@
 ! Title: CustomFilter
 ! Homepage: https://github.com/ilovecity/customfilter
-! Expires: 14 days
+! Expires: 7 days
 ! Version: 20210427
 torrentsee51.com##div[class="tads1"]
 torrentsee51.com##div[class="mmbannel"]
